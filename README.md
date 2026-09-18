@@ -312,3 +312,4 @@ Deliberately not included, flag it if you want any of these:
 One practical note: applicant records accumulate PII you have no reason to keep forever.
 A scheduled Worker that archives or purges rejected applications after 12–24 months is
 worth adding before this has been running a year.
+ Umer
